@@ -1,0 +1,757 @@
+tech_company,tech_role,e_provided health benefits,e_mental_health_awareness,acquiring_leave,discussed_health_e,discussed_health_co,e_discussed_mental_health,e_physical_health,e_mental_health,family_history,share_about_illness,age,gender
+1,1,No,I don't know,I don't know,0,1,No,6,0,No,5,27,Female
+1,1,Yes,No,I don't know,0,1,No,7,2,No,4,31,male
+1,1,I don't know,No,Difficult,1,1,I don't know,0,1,Yes,5,36,male
+1,1,Yes,I don't know,Difficult,1,1,I don't know,7,5,I don't know,10,22,Male
+,,,,,,,,,,Yes,10,52,female
+1,0,Yes,I don't know,Somewhat easy,0,0,No,9,5,Yes,5,30,male
+1,1,Yes,No,Very easy,0,1,No,10,10,Yes,8,36,F
+1,1,Yes,No,Somewhat easy,0,0,No,10,8,Yes,3,38,Female
+0,1,I don't know,No,Very easy,0,0,No,9,7,I don't know,6,35,Male
+,,,,,,,,,,No,4,36,male
+0,1,Yes,No,I don't know,1,1,No,1,0,Yes,2,40,M
+1,1,I don't know,I don't know,Difficult,0,0,No,5,3,Yes,10,35,Male
+1,1,No,No,Neither easy nor difficult,1,1,No,7,7,No,5,23,Male
+1,1,I don't know,I don't know,Neither easy nor difficult,0,0,No,3,2,I don't know,3,22,Female
+1,0,I don't know,I don't know,Very easy,1,1,I don't know,5,5,Yes,8,34,female
+0,1,Yes,I don't know,Somewhat easy,0,0,No,8,3,No,9,28,Male
+0,1,No,No,Neither easy nor difficult,0,1,No,9,9,No,10,38,male
+,,,,,,,,,,No,6,53,Male
+1,1,I don't know,No,Somewhat easy,0,1,No,4,3,No,8,21,Male
+0,1,I don't know,I don't know,Neither easy nor difficult,0,0,No,4,3,Yes,7,35,F
+1,1,No,No,Neither easy nor difficult,0,0,No,2,2,Yes,3,22,Male
+0,0,Not eligible for coverage / NA,Yes,Somewhat difficult,0,1,Yes,7,7,Yes,6,18,Male
+0,1,I don't know,No,Difficult,1,1,No,8,2,Yes,10,37,female
+1,1,No,No,Difficult,1,1,No,6,7,I don't know,5,25,Male
+1,1,No,No,I don't know,0,0,Yes,10,5,I don't know,5,40,male
+1,1,No,No,Very easy,0,0,No,7,0,Yes,5,33,Male
+0,1,Yes,I don't know,Somewhat difficult,0,0,No,5,5,Yes,8,66,F
+0,1,Yes,No,Somewhat easy,0,1,No,5,2,Yes,4,31,female
+0,1,Yes,Yes,Neither easy nor difficult,0,0,Yes,7,6,Yes,9,32,Male
+,,,,,,,,,,I don't know,7,46,M
+1,1,Yes,No,Somewhat difficult,0,0,I don't know,5,5,Yes,7,30,female
+1,1,Yes,No,Very easy,1,0,No,5,5,I don't know,10,31,Man
+1,1,Not eligible for coverage / NA,No,Somewhat easy,1,1,No,5,2,Yes,6,46,Male
+,,,,,,,,,,I don't know,5,29,
+0,1,Not eligible for coverage / NA,I don't know,I don't know,0,0,No,2,2,Yes,10,28,f
+0,1,No,No,Difficult,0,1,No,5,3,I don't know,5,34,Female
+1,1,Yes,No,Difficult,0,1,No,10,0,I don't know,8,25,Male
+0,1,Yes,Yes,Somewhat easy,0,0,Yes,7,5,I don't know,7,35,Male
+,,,,,,,,,,Yes,3,25,
+1,1,Yes,I don't know,Somewhat easy,1,0,No,7,5,No,8,40,male
+0,1,I don't know,I don't know,Very easy,1,1,No,5,5,I don't know,6,32,M
+0,1,I don't know,I don't know,Neither easy nor difficult,0,0,No,4,2,Yes,1,39,Male
+1,1,Yes,I don't know,I don't know,0,1,I don't know,9,9,Yes,4,33,male
+1,1,Yes,Yes,Very easy,0,1,Yes,8,8,I don't know,8,40,Male
+1,1,Yes,I don't know,Very easy,1,1,No,5,4,I don't know,7,42,male
+0,1,I don't know,I don't know,Difficult,1,0,I don't know,5,5,Yes,6,32,Male
+0,1,Yes,Yes,Somewhat difficult,1,1,No,8,0,I don't know,9,27,Female
+,,,,,,,,,,Yes,10,43,Female
+0,1,No,No,Difficult,0,1,No,4,3,I don't know,2,30,female
+0,1,I don't know,No,Difficult,0,0,No,0,0,Yes,10,39,male
+1,1,Yes,I don't know,I don't know,0,1,No,6,7,Yes,10,42,Female
+1,1,Yes,No,Somewhat easy,1,0,Yes,10,8,Yes,10,37,Genderfluid
+0,1,I don't know,I don't know,Difficult,1,0,No,6,2,Yes,6,38,Female
+1,1,I don't know,I don't know,Very easy,0,0,I don't know,8,7,No,6,47,Male
+1,1,I don't know,Yes,Somewhat difficult,0,0,Yes,5,2,No,5,64,male
+0,0,No,No,Somewhat difficult,0,0,No,8,3,Yes,7,28,Male
+,,,,,,,,,,I don't know,0,45,Male
+1,1,Yes,I don't know,Very easy,0,0,Yes,7,7,No,5,37,M
+1,1,Yes,Yes,Very easy,1,1,Yes,9,9,Yes,9,30,Female
+0,1,I don't know,No,Somewhat easy,0,0,No,5,5,No,7,25,Male
+1,1,No,Yes,Very easy,0,0,No,10,10,Yes,1,25,Female
+,,,,,,,,,,Yes,8,54,Female
+1,0,Yes,Yes,Neither easy nor difficult,1,1,Yes,5,6,I don't know,7,61,Male
+1,1,No,No,I don't know,0,0,No,8,4,No,7,26,male
+0,1,Yes,Yes,Neither easy nor difficult,1,1,Yes,2,2,Yes,4,44,Female
+1,1,No,No,I don't know,0,1,No,0,0,I don't know,2,26,male
+1,1,Yes,No,Somewhat easy,1,1,No,9,7,Yes,10,26,Female
+1,1,I don't know,I don't know,Neither easy nor difficult,0,0,No,7,5,I don't know,3,35,female
+1,1,Yes,No,Very easy,0,1,No,5,2,No,6,45,Male
+1,1,I don't know,No,Somewhat easy,0,0,No,3,2,I don't know,4,23,Male
+0,1,Yes,I don't know,Somewhat easy,0,0,I don't know,7,5,No,5,44,Male
+0,1,Yes,Yes,Neither easy nor difficult,0,1,Yes,5,5,I don't know,5,38,male
+0,1,Yes,Yes,Somewhat easy,1,0,Yes,8,8,Yes,8,46,Male
+0,1,Yes,I don't know,Somewhat difficult,1,0,Yes,5,5,I don't know,5,27,Nonbinary
+0,1,Yes,Yes,Difficult,1,1,I don't know,7,2,Yes,7,39,female
+1,1,I don't know,No,I don't know,0,0,No,10,2,Yes,2,33,Female 
+,,,,,,,,,,Yes,8,38,female
+0,1,Not eligible for coverage / NA,No,Difficult,0,0,No,9,4,No,2,35,Male
+1,1,No,No,Neither easy nor difficult,1,1,No,7,3,No,3,32,male
+1,1,Yes,No,Somewhat easy,1,0,I don't know,5,5,I don't know,5,26,Female
+1,1,Yes,I don't know,Somewhat difficult,0,0,No,4,3,Yes,8,50,cis-male
+1,1,I don't know,I don't know,Somewhat easy,0,0,I don't know,9,8,Yes,10,31,Male
+1,1,I don't know,I don't know,Somewhat difficult,0,0,Yes,8,3,Yes,4,46,Male
+1,1,Yes,No,Somewhat easy,0,0,No,7,4,Yes,7,30,Male
+1,1,Yes,I don't know,Somewhat difficult,0,0,No,8,5,I don't know,7,30,Mail
+1,1,No,No,Neither easy nor difficult,1,1,No,8,4,No,7,34,male
+0,0,Yes,Yes,Difficult,0,0,Yes,8,4,No,1,42,Male
+1,1,Yes,Yes,Somewhat difficult,1,0,Yes,8,6,Yes,8,24,Female
+,,,,,,,,,,Yes,8,30,Male
+1,1,Yes,I don't know,Somewhat easy,1,1,Yes,8,7,I don't know,1,23,Male
+1,1,Yes,No,Somewhat easy,0,1,No,10,6,Yes,4,31,female
+1,1,No,No,I don't know,0,0,No,2,6,I don't know,3,31,male
+1,1,Yes,I don't know,Somewhat easy,1,1,No,5,4,Yes,6,27,Woman
+,,,,,,,,,,No,0,26,Male
+0,1,Yes,Yes,Somewhat difficult,0,0,No,10,1,Yes,8,52,Female
+,,,,,,,,,,No,3,28,Male
+1,1,No,I don't know,I don't know,0,0,No,4,5,I don't know,0,37,male
+0,1,No,Yes,Somewhat easy,0,0,Yes,6,7,No,5,37,male
+0,1,Yes,No,Very easy,0,0,No,8,4,Yes,10,38,Male
+,,,,,,,,,,Yes,10,57,Female
+1,1,Yes,I don't know,Somewhat easy,1,1,I don't know,7,5,Yes,8,34,Male
+1,1,Yes,Yes,Difficult,0,0,No,5,5,Yes,3,38,female
+1,1,I don't know,I don't know,Neither easy nor difficult,0,0,No,4,5,I don't know,8,30,Male
+0,1,Yes,I don't know,Somewhat easy,0,0,Yes,8,7,No,10,52,Male
+,,,,,,,,,,No,3,31,Female
+,,,,,,,,,,I don't know,9,29,Male
+1,1,I don't know,No,Difficult,0,0,No,1,1,Yes,0,26,Female
+0,0,Yes,No,Somewhat difficult,0,0,No,7,5,I don't know,4,29,female
+1,1,Yes,No,I don't know,1,1,No,8,5,Yes,8,44,Male
+,,,,,,,,,,I don't know,5,18,male/androgynous 
+1,1,Not eligible for coverage / NA,I don't know,Very easy,1,1,Yes,7,7,Yes,10,42,Male
+0,1,Yes,No,Somewhat easy,0,0,No,7,6,Yes,5,30,Male
+1,0,Yes,Yes,Very easy,1,1,Yes,6,7,I don't know,10,29,M
+1,1,Yes,Yes,Neither easy nor difficult,1,0,Yes,7,4,Yes,8,27,Female
+1,1,Yes,Yes,Somewhat easy,1,1,Yes,9,7,Yes,4,39,Male
+1,1,Yes,No,Very easy,1,1,Yes,5,5,Yes,6,40,female
+1,1,Yes,Yes,I don't know,0,1,Yes,7,4,Yes,8,36,female
+,,,,,,,,,,No,3,48,female
+1,1,Yes,Yes,Somewhat easy,0,0,Yes,7,7,No,7,43,male
+1,1,Yes,Yes,Neither easy nor difficult,1,1,I don't know,8,6,Yes,3,38,Man
+1,1,I don't know,No,Somewhat easy,0,0,No,6,6,I don't know,6,42,Male
+1,1,No,Yes,Neither easy nor difficult,1,1,Yes,8,5,I don't know,7,46,Male
+0,0,Yes,Yes,Difficult,0,1,No,5,7,Yes,3,30,male
+0,1,No,No,Difficult,0,1,No,4,0,Yes,10,25,Male
+1,1,Yes,Yes,Very easy,0,0,Yes,9,9,Yes,7,28,
+1,1,Yes,No,Neither easy nor difficult,0,1,No,5,5,Yes,8,24,Female
+1,1,I don't know,No,Difficult,0,0,No,3,6,Yes,6,26,male
+1,1,Yes,Yes,Somewhat easy,0,1,No,5,1,Yes,8,43,cis hetero male
+0,1,Yes,Yes,I don't know,0,0,No,8,5,I don't know,5,25,Female
+0,1,Yes,I don't know,I don't know,0,0,Yes,7,6,Yes,3,34,male
+1,1,Yes,I don't know,Very easy,0,1,Yes,8,8,No,6,28,female
+1,1,No,No,Somewhat difficult,1,1,No,5,5,I don't know,8,27,Male
+1,1,No,Yes,Somewhat easy,0,0,Yes,6,8,No,7,22,Male
+1,1,I don't know,Yes,Very easy,0,0,No,8,5,Yes,0,24,female
+,,,,,,,,,,No,10,33,female
+,,,,,,,,,,No,3,41,m
+1,1,No,I don't know,I don't know,0,0,No,2,1,I don't know,1,26,Female
+,,,,,,,,,,I don't know,9,39,Male
+1,1,I don't know,No,Somewhat easy,1,0,No,1,7,No,5,24,male
+1,1,I don't know,No,I don't know,1,1,No,5,3,I don't know,7,54,Male
+0,1,Yes,Yes,Somewhat easy,1,1,Yes,7,5,Yes,7,47,m
+1,1,No,No,Very easy,1,0,No,8,5,No,7,33,Male
+1,1,Yes,No,Somewhat easy,1,1,No,6,3,Yes,10,30,
+0,1,Yes,I don't know,I don't know,0,0,No,5,5,I don't know,8,48,Male
+1,1,I don't know,Yes,Somewhat easy,1,1,I don't know,6,3,Yes,4,35,male
+0,1,I don't know,I don't know,Somewhat easy,0,0,No,5,5,I don't know,10,34,Male
+,,,,,,,,,,No,10,31,Male
+1,1,Yes,No,Somewhat easy,0,1,No,8,7,Yes,6,25,male
+1,1,No,No,Somewhat easy,0,1,No,5,5,Yes,9,48,male
+0,1,Yes,I don't know,I don't know,0,0,Yes,7,5,I don't know,2,34,Male
+1,1,Yes,No,Difficult,0,0,No,2,1,Yes,3,42,M
+1,1,I don't know,No,Very easy,0,1,No,5,5,Yes,8,27,Male
+1,1,Yes,No,Somewhat difficult,1,0,No,8,5,Yes,7,33,Female
+1,1,Yes,I don't know,Very easy,0,1,No,5,4,I don't know,7,27,Female
+1,1,Yes,No,I don't know,0,0,No,4,3,I don't know,3,48,m
+1,1,Yes,No,Somewhat easy,1,1,No,5,3,I don't know,7,32,f
+1,1,Yes,I don't know,Somewhat difficult,1,1,Yes,7,6,Yes,9,29,Male
+,,,,,,,,,,Yes,9,36,Female
+,,,,,,,,,,I don't know,4,29,Female
+1,1,I don't know,No,Neither easy nor difficult,0,0,No,7,7,No,5,23,female
+0,1,Yes,Yes,Somewhat difficult,0,1,I don't know,7,7,I don't know,6,50,Female
+,,,,,,,,,,No,10,24,female
+1,1,No,No,I don't know,0,0,No,6,5,No,7,29,Female
+0,1,Yes,I don't know,Very easy,0,1,I don't know,9,7,Yes,9,42,female
+,,,,,,,,,,No,9,35,Male
+1,1,I don't know,I don't know,Very easy,0,0,No,9,5,I don't know,7,22,Male
+1,1,Yes,Yes,Somewhat easy,0,1,Yes,10,10,I don't know,7,39,Female
+1,1,Yes,No,Somewhat difficult,0,1,No,5,5,Yes,5,29,femalw
+,,,,,,,,,,No,5,20,Male
+0,0,Not eligible for coverage / NA,Yes,I don't know,0,1,Yes,8,8,Yes,7,36,female
+1,1,I don't know,No,Somewhat easy,1,1,No,4,4,Yes,10,30,femail
+,,,,,,,,,,I don't know,4,36,male
+1,1,No,No,Very easy,1,1,No,6,3,Yes,7,31,Male
+1,1,Yes,No,I don't know,0,0,No,2,2,No,8,28,male
+0,1,Yes,Yes,Very easy,0,0,No,7,5,I don't know,10,28,Male (cis)
+0,1,I don't know,I don't know,Difficult,0,1,No,8,1,Yes,8,25,Female
+1,1,I don't know,No,Somewhat easy,0,1,No,5,5,I don't know,9,30,male
+,,,,,,,,,,Yes,7,45,m
+1,1,I don't know,No,Neither easy nor difficult,0,0,No,7,5,No,6,31,Male
+1,1,No,No,Very easy,0,1,No,7,0,No,1,36,Male
+1,1,I don't know,No,Neither easy nor difficult,1,1,No,7,7,Yes,5,37,male
+1,1,Yes,I don't know,Somewhat easy,1,0,No,7,7,No,8,37,Male
+,,,,,,,,,,No,0,28,male
+1,1,Not eligible for coverage / NA,No,Somewhat easy,1,1,No,0,2,No,10,37,male
+1,1,No,No,Very easy,0,0,No,3,3,No,0,37,male
+,,,,,,,,,,No,3,64,m
+,,,,,,,,,,No,3,34,female
+,,,,,,,,,,Yes,6,34,Male
+,,,,,,,,,,Yes,8,36,Male
+,,,,,,,,,,No,4,26,m
+1,1,I don't know,No,Somewhat difficult,0,0,No,6,5,No,6,33,male
+1,1,Yes,No,Very easy,0,0,No,7,4,No,9,47,f
+1,0,I don't know,Yes,Somewhat easy,0,1,Yes,7,9,I don't know,5,24,Female
+1,1,Yes,I don't know,I don't know,1,1,No,7,3,Yes,6,26,Male
+1,1,Yes,Yes,Very easy,0,1,Yes,5,5,I don't know,5,37,Male
+1,1,Yes,No,Neither easy nor difficult,1,1,Yes,7,4,I don't know,2,29,Male
+1,1,I don't know,No,Somewhat difficult,1,0,No,8,5,Yes,10,33,Female
+1,1,Yes,Yes,Somewhat easy,0,1,Yes,8,8,Yes,10,44,male
+1,1,Yes,Yes,Neither easy nor difficult,0,0,Yes,8,6,Yes,6,34,Female
+1,1,Yes,No,I don't know,0,1,Yes,6,4,Yes,3,35,Male
+1,1,Yes,I don't know,Very easy,1,0,No,7,7,I don't know,5,32,uhhhhhhhhh fem genderqueer?
+,,,,,,,,,,Yes,7,23,
+1,1,Yes,Yes,I don't know,1,0,No,3,2,Yes,10,31,Male
+1,1,Yes,No,Neither easy nor difficult,0,1,No,6,6,Yes,8,30,M
+,,,,,,,,,,No,8,42,male (hey this is the tech industry you're talking about)
+1,1,I don't know,Yes,Somewhat difficult,0,0,No,8,3,Yes,5,26,female (cis)
+0,1,Yes,No,Somewhat easy,0,1,No,3,1,Yes,10,29,Female
+0,1,Yes,Yes,Somewhat easy,0,0,No,7,5,No,4,35,Male
+,,,,,,,,,,Yes,7,31,Male
+1,1,I don't know,I don't know,Somewhat easy,0,0,I don't know,8,3,Yes,0,26,God King of the Valajar
+1,1,I don't know,I don't know,Neither easy nor difficult,0,0,No,6,6,Yes,7,30,Male
+0,1,Yes,No,Very easy,0,0,No,9,5,Yes,9,39,M
+1,1,No,I don't know,Neither easy nor difficult,0,0,No,9,8,No,10,29,Male
+1,1,No,No,I don't know,0,0,No,3,0,I don't know,9,27,Male
+1,1,No,No,I don't know,0,0,No,0,5,No,8,29,Male
+1,1,No,No,Neither easy nor difficult,0,0,No,4,4,Yes,8,43,Male
+1,1,No,No,Somewhat easy,0,0,No,6,5,No,7,31,Male
+1,1,No,No,Neither easy nor difficult,0,0,No,7,8,No,9,27,Female
+1,1,Yes,Yes,Somewhat easy,1,0,No,5,7,Yes,10,36,Male
+1,0,Yes,Yes,Very easy,1,1,Yes,7,6,Yes,7,44,Female 
+1,1,Yes,Yes,Very easy,0,1,Yes,8,8,Yes,9,44,Cis male
+1,1,Yes,Yes,Very easy,1,1,No,10,10,No,10,27,female
+1,1,Yes,Yes,Very easy,1,1,Yes,8,7,Yes,9,42,Female
+1,1,Yes,Yes,Somewhat easy,1,1,Yes,7,7,Yes,8,28,male
+0,1,Yes,Yes,Very easy,0,1,Yes,8,7,No,5,43,Male
+,,,,,,,,,,I don't know,5,28,Female
+1,1,Yes,Yes,Very easy,1,0,Yes,9,5,Yes,8,49,Female
+1,1,I don't know,No,Neither easy nor difficult,0,0,No,5,5,I don't know,6,32,Male
+1,1,I don't know,I don't know,I don't know,0,0,No,2,2,I don't know,0,33,M
+1,0,No,No,Neither easy nor difficult,0,0,No,7,4,Yes,2,45,Male
+1,1,I don't know,I don't know,Difficult,0,0,No,7,5,I don't know,9,25,Female
+1,1,Yes,I don't know,Difficult,0,0,No,4,2,Yes,9,42,Male
+1,1,Yes,No,Neither easy nor difficult,0,1,No,1,0,Yes,6,25,Male
+1,1,Yes,I don't know,Difficult,1,1,No,6,2,Yes,10,25,Female
+1,0,Yes,Yes,I don't know,0,0,Yes,7,5,Yes,5,31,Female
+0,1,Yes,No,I don't know,0,0,Yes,8,6,I don't know,3,22,Female
+,,,,,,,,,,Yes,3,33,f
+1,1,No,No,Difficult,0,1,No,5,5,Yes,5,40,Male
+1,1,I don't know,No,Neither easy nor difficult,0,1,No,10,8,I don't know,7,28,Male
+1,1,I don't know,I don't know,Somewhat easy,0,0,No,2,2,I don't know,6,37,Male
+1,1,Yes,No,Difficult,0,1,No,9,1,I don't know,7,35,Male
+,,,,,,,,,,No,5,47,Male
+1,1,I don't know,No,Somewhat difficult,0,0,No,7,4,Yes,3,20,Male
+1,0,Yes,No,Very easy,0,0,No,10,7,No,10,27,Female
+0,1,Yes,Yes,Somewhat difficult,1,0,Yes,9,5,No,0,62,Female
+,,,,,,,,,,No,0,42,male
+,,,,,,,,,,I don't know,3,35,Male
+1,1,I don't know,I don't know,Neither easy nor difficult,1,1,No,8,3,I don't know,7,29,Male
+1,1,Yes,Yes,Somewhat easy,0,0,Yes,7,7,Yes,5,37,Male
+1,1,Yes,I don't know,Somewhat difficult,1,1,No,5,3,Yes,8,51,Male
+0,1,Yes,Yes,I don't know,0,1,Yes,8,8,Yes,8,60,Male
+,,,,,,,,,,I don't know,9,30,F
+1,0,Yes,I don't know,Somewhat easy,0,1,No,10,7,Yes,6,36,f
+1,1,I don't know,I don't know,Neither easy nor difficult,1,0,I don't know,7,7,I don't know,6,38,m
+1,1,I don't know,Yes,Neither easy nor difficult,0,0,Yes,8,8,No,8,30,Woman
+1,0,I don't know,Yes,Very easy,1,1,Yes,5,5,Yes,10,35,Male
+,,,,,,,,,,I don't know,10,50,female
+1,1,Yes,Yes,Very easy,1,1,Yes,9,10,Yes,2,41,Male
+,,,,,,,,,,Yes,10,58,female
+0,1,I don't know,No,I don't know,0,0,No,8,7,No,9,27,Male
+0,1,No,No,Neither easy nor difficult,0,1,No,5,6,No,0,53,man
+0,1,Yes,No,Somewhat difficult,0,0,No,3,2,I don't know,4,42,Female
+0,1,No,No,Neither easy nor difficult,0,1,No,3,3,Yes,7,33,male
+1,0,Yes,Yes,Somewhat easy,1,1,No,6,5,Yes,9,25,Nonbinary
+1,1,I don't know,I don't know,Very easy,1,0,No,6,5,Yes,7,40,Male
+0,1,Yes,Yes,Very easy,0,1,No,10,5,Yes,10,25,My sex is female.
+1,1,I don't know,No,I don't know,0,0,No,6,3,No,6,49,female
+1,1,No,No,Difficult,0,1,No,3,0,Yes,5,44,Female
+1,1,I don't know,No,Difficult,0,1,No,6,6,No,5,30,Male
+1,0,Yes,I don't know,I don't know,0,0,I don't know,5,6,Yes,5,28,Male
+1,1,Yes,I don't know,I don't know,0,1,I don't know,7,5,Yes,6,26,M
+1,1,Yes,Yes,Somewhat easy,1,1,Yes,7,7,Yes,9,31,Male
+1,1,Yes,No,Very easy,1,1,No,4,6,Yes,8,32,Male
+1,1,I don't know,I don't know,Very easy,0,0,I don't know,5,5,No,10,24,Male
+1,1,I don't know,I don't know,Somewhat difficult,1,1,No,5,5,Yes,9,34,male
+1,1,Yes,I don't know,Very easy,1,1,No,7,4,Yes,9,31,female
+1,1,Yes,Yes,Very easy,1,1,Yes,9,5,No,8,47,Male
+1,1,Yes,I don't know,Neither easy nor difficult,0,0,No,8,6,I don't know,6,59,male
+1,1,I don't know,No,Somewhat easy,1,1,I don't know,6,5,Yes,9,44,male
+1,1,No,No,Neither easy nor difficult,0,0,No,3,2,No,0,26,Male
+,,,,,,,,,,No,10,43,Male
+,,,,,,,,,,I don't know,8,39,Male
+1,1,I don't know,No,Neither easy nor difficult,1,1,Yes,5,8,I don't know,7,43,M
+,,,,,,,,,,I don't know,3,40,Male
+1,1,I don't know,No,Somewhat difficult,1,0,No,5,3,I don't know,7,22,male
+1,1,Not eligible for coverage / NA,No,Very easy,1,0,No,7,7,No,10,24,m
+1,1,I don't know,I don't know,Somewhat easy,0,1,No,8,5,Yes,2,35,male
+1,0,I don't know,No,I don't know,0,1,No,8,5,No,5,40,Male
+,,,,,,,,,,Yes,10,26,Male
+,,,,,,,,,,Yes,9,23,Male
+0,1,I don't know,No,Somewhat easy,0,1,No,5,4,Yes,4,30,Male
+0,1,Yes,I don't know,Very easy,0,0,I don't know,9,5,I don't know,7,37,Male
+1,1,No,No,Somewhat easy,1,1,No,4,7,No,9,27,Male
+1,1,Yes,Yes,Somewhat difficult,0,0,No,5,2,I don't know,6,42,male
+1,0,Yes,Yes,I don't know,0,0,Yes,8,8,No,8,49,Male
+1,1,Yes,I don't know,Neither easy nor difficult,0,0,No,7,7,I don't know,7,40,Male
+1,0,Yes,Yes,Very easy,1,1,No,5,8,Yes,8,26,female
+1,1,Yes,Yes,Somewhat easy,0,1,Yes,8,7,Yes,10,29,Male
+1,0,Yes,I don't know,Somewhat difficult,0,0,Yes,9,8,Yes,6,39,F
+0,1,Yes,I don't know,Somewhat difficult,1,1,I don't know,6,5,Yes,3,40,M
+1,1,No,No,Somewhat easy,0,0,No,8,5,No,1,23,male
+1,1,I don't know,I don't know,Neither easy nor difficult,0,0,I don't know,9,8,No,2,50,M
+0,1,Yes,Yes,Somewhat easy,0,0,Yes,6,4,No,8,35,Male
+1,1,Yes,Yes,Neither easy nor difficult,0,1,No,8,5,I don't know,5,24,Male
+1,1,Yes,I don't know,Somewhat easy,0,1,Yes,8,6,Yes,6,35,female
+1,1,I don't know,No,Very easy,0,0,No,10,10,I don't know,7,36,Male
+1,0,Yes,I don't know,I don't know,0,1,I don't know,10,5,I don't know,5,50,Female
+1,1,I don't know,I don't know,I don't know,0,0,No,6,5,No,5,47,female
+1,0,Yes,No,Neither easy nor difficult,0,0,No,6,7,No,6,30,m
+1,1,Yes,Yes,Somewhat easy,0,1,I don't know,8,7,Yes,6,30,m
+1,1,Yes,Yes,I don't know,1,1,No,5,1,Yes,5,32,Male
+1,0,Yes,Yes,Very easy,1,1,Yes,8,10,Yes,10,38,n/a
+1,1,I don't know,No,Neither easy nor difficult,0,1,No,6,5,Yes,7,38,Male
+1,1,Yes,I don't know,Neither easy nor difficult,0,1,I don't know,5,5,Yes,6,38,Male
+1,1,Yes,Yes,Neither easy nor difficult,0,1,I don't know,8,8,No,5,26,Female
+1,1,Yes,No,Difficult,0,0,No,3,0,Yes,7,45,female
+1,1,Yes,Yes,Somewhat easy,0,0,Yes,5,5,No,7,37,Female
+1,0,I don't know,I don't know,I don't know,0,1,No,9,9,Yes,8,24,Female
+1,1,Yes,Yes,Somewhat easy,1,1,Yes,9,9,Yes,8,33,Female
+1,1,Yes,Yes,I don't know,1,0,I don't know,7,5,Yes,6,35,female
+1,1,Yes,Yes,Neither easy nor difficult,1,1,No,6,8,Yes,9,44,Male
+1,1,I don't know,No,Neither easy nor difficult,0,1,No,5,5,Yes,10,27,female
+1,0,Yes,Yes,Very easy,0,0,No,5,5,No,3,33,Male
+1,0,I don't know,No,Very easy,0,0,I don't know,7,7,No,2,28,Female
+0,1,Yes,I don't know,I don't know,0,1,I don't know,7,6,Yes,8,35,Male
+1,1,Yes,Yes,Somewhat difficult,0,1,No,8,4,No,6,23,Male
+,,,,,,,,,,I don't know,8,53,Male
+1,1,Yes,No,Somewhat easy,0,0,No,7,6,I don't know,8,32,Male
+,,,,,,,,,,Yes,9,24,male
+1,1,Yes,I don't know,Very easy,0,1,No,10,8,No,7,31,Male
+1,1,No,No,Very easy,1,1,No,6,6,I don't know,9,33,Male
+1,1,No,No,Very easy,1,1,No,7,5,No,10,37,Male
+1,1,I don't know,No,Somewhat easy,0,0,No,9,3,No,3,27,male
+1,1,Yes,I don't know,Neither easy nor difficult,1,1,No,7,7,No,4,31,male
+,,,,,,,,,,I don't know,7,32,Male
+1,1,No,No,Somewhat difficult,1,1,No,9,6,I don't know,9,40,Male
+1,1,No,No,Very easy,1,1,No,8,6,No,10,32,Male
+,,,,,,,,,,I don't know,10,31,Male
+1,1,Yes,Yes,Very easy,0,1,Yes,8,8,Yes,9,33,Male
+1,0,I don't know,No,Somewhat difficult,0,1,No,0,5,I don't know,7,21,
+,,,,,,,,,,No,9,67,female
+,,,,,,,,,,Yes,7,35,Cis-male
+,,,,,,,,,,I don't know,5,46,male
+0,1,Yes,I don't know,Somewhat difficult,0,1,No,6,5,I don't know,6,36,Male
+1,1,No,No,Somewhat easy,1,1,Yes,7,7,Yes,7,44,f
+0,1,Yes,Yes,Somewhat easy,0,0,Yes,9,9,I don't know,5,57,Male
+1,1,I don't know,No,I don't know,0,0,No,5,3,I don't know,5,38,female
+1,1,Yes,No,Somewhat easy,0,1,No,9,8,Yes,9,27,female
+0,1,Not eligible for coverage / NA,Yes,Somewhat easy,1,1,Yes,5,7,Yes,10,26,Male
+1,1,Yes,Yes,Neither easy nor difficult,1,0,Yes,6,5,No,3,36,m
+1,1,Not eligible for coverage / NA,No,Somewhat easy,1,0,Yes,7,7,Yes,9,30,Male
+1,1,Yes,Yes,Very easy,1,1,I don't know,5,4,Yes,5,35,Male
+1,1,No,No,Very easy,0,0,No,9,2,No,5,30,Male
+1,1,No,No,Neither easy nor difficult,0,1,No,5,5,Yes,5,32,Male
+1,1,I don't know,No,Neither easy nor difficult,0,0,No,8,8,No,2,35,male
+1,1,Yes,I don't know,Very easy,0,0,No,8,8,No,7,33,Male
+1,1,No,No,Very easy,0,0,No,5,5,No,7,48,Male
+1,1,No,No,Somewhat easy,0,0,No,8,6,No,7,32,Male
+1,1,I don't know,No,Somewhat easy,0,1,No,5,4,Yes,5,45,M
+1,1,I don't know,No,I don't know,0,1,No,5,3,No,5,31,male
+0,1,I don't know,I don't know,Very easy,0,0,Yes,9,7,No,7,40,Male
+0,1,I don't know,No,Very easy,0,0,No,6,4,I don't know,5,37,male
+1,1,No,No,I don't know,0,0,No,7,7,No,1,29,male
+1,1,Yes,I don't know,Very easy,0,1,Yes,7,7,Yes,6,26,male
+1,0,Yes,Yes,Somewhat easy,1,0,Yes,6,9,I don't know,6,51,Female
+,,,,,,,,,,No,9,29,male
+,,,,,,,,,,Yes,6,30,Male
+1,1,Yes,No,I don't know,0,0,Yes,6,8,No,3,33,female
+1,1,Yes,No,Neither easy nor difficult,1,1,No,7,7,Yes,9,27,Male
+1,1,Yes,I don't know,Somewhat difficult,0,0,No,3,3,I don't know,0,42,Male
+1,0,Not eligible for coverage / NA,No,Neither easy nor difficult,1,1,Yes,7,7,No,5,47,male
+1,1,Not eligible for coverage / NA,I don't know,Very easy,1,1,Yes,7,7,I don't know,5,31,Female
+0,1,I don't know,Yes,Somewhat easy,0,0,Yes,10,10,No,7,32,Male
+,,,,,,,,,,No,6,60,Male 
+1,1,I don't know,No,Somewhat easy,0,0,No,5,5,Yes,5,58,Male
+,,,,,,,,,,Yes,6,38,Male
+1,1,No,No,Somewhat difficult,0,0,No,1,1,I don't know,3,42,female
+1,1,I don't know,No,Neither easy nor difficult,0,0,I don't know,9,8,Yes,2,41,Male
+1,1,Yes,No,Very easy,0,0,No,8,10,No,6,25,Male
+1,1,Yes,Yes,Very easy,1,1,Yes,9,9,No,7,31,Female
+,,,,,,,,,,No,7,42,male
+1,1,No,No,Somewhat easy,1,1,No,7,2,I don't know,9,42,Male
+1,1,Yes,Yes,Difficult,0,0,No,4,1,No,0,41,Male
+1,1,Yes,Yes,Very easy,1,1,No,8,5,Yes,8,35,Non-binary
+1,1,Yes,No,Neither easy nor difficult,0,0,No,9,3,No,5,24,Male
+1,1,Yes,Yes,I don't know,0,0,Yes,10,5,Yes,9,37,Male
+1,1,I don't know,I don't know,Neither easy nor difficult,0,0,Yes,5,6,No,2,32,Male
+0,1,Yes,Yes,Very easy,0,0,Yes,8,8,No,8,34,M
+0,1,No,No,Somewhat difficult,0,0,No,5,4,No,8,37,Male
+,,,,,,,,,,No,7,38,Male
+1,1,No,No,Difficult,0,0,I don't know,7,3,I don't know,4,30,male
+1,1,I don't know,No,I don't know,0,0,No,2,5,I don't know,0,27,Male
+0,1,Yes,I don't know,Neither easy nor difficult,0,0,No,7,7,No,0,41,Female
+1,1,I don't know,No,Somewhat easy,0,0,No,7,7,I don't know,6,41,M
+1,1,Yes,I don't know,Difficult,0,0,No,8,5,No,6,39,male
+1,1,Yes,I don't know,Somewhat easy,1,1,No,9,6,No,9,42,male
+1,0,Yes,No,Very easy,1,1,No,8,8,Yes,10,28,Female
+1,1,No,No,Difficult,0,0,No,7,3,No,1,29,Male
+,,,,,,,,,,Yes,10,41,"Male, cis"
+1,1,Yes,I don't know,Very easy,0,0,No,5,5,No,2,46,Male
+1,1,Yes,No,Somewhat difficult,1,1,I don't know,2,3,Yes,2,38,Male
+1,1,Yes,Yes,Very easy,0,0,Yes,8,7,No,10,34,Male
+1,1,Yes,No,I don't know,0,1,No,7,5,Yes,10,28,Male
+1,1,No,No,Difficult,0,1,No,2,8,Yes,8,28,Female 
+1,1,Yes,No,Somewhat easy,1,1,No,5,5,No,8,38,cis male 
+0,1,Yes,No,Somewhat easy,1,1,No,8,7,Yes,8,33,Male
+1,1,Yes,No,I don't know,1,1,No,6,6,I don't know,7,38,female
+0,1,I don't know,I don't know,Somewhat easy,0,0,No,5,2,No,10,48,Male
+1,0,No,No,Very easy,1,0,No,10,10,I don't know,10,44,Woman
+1,1,Yes,Yes,Very easy,1,1,Yes,8,8,Yes,9,34,Male
+1,1,No,No,I don't know,0,0,No,7,0,No,1,29,Female
+0,1,No,Yes,Somewhat easy,0,0,I don't know,7,3,Yes,9,39,male
+1,1,I don't know,I don't know,I don't know,0,0,No,6,8,No,8,41,m
+1,1,Yes,Yes,Very easy,0,1,No,5,5,Yes,6,33,Male
+,,,,,,,,,,I don't know,9,31,male
+1,1,Yes,Yes,Very easy,0,0,Yes,6,4,No,1,44,Male
+0,1,I don't know,No,Somewhat easy,0,1,No,6,0,Yes,10,33,Female
+1,1,I don't know,I don't know,Somewhat difficult,0,1,No,3,3,No,4,26,Agender/genderfluid
+1,1,Not eligible for coverage / NA,No,Somewhat easy,0,0,No,7,4,No,6,28,Male
+1,1,Yes,No,Somewhat difficult,0,0,No,6,7,I don't know,3,32,Female
+1,1,Yes,Yes,Somewhat easy,0,1,Yes,5,8,No,7,35,Female
+0,1,I don't know,Yes,Very easy,0,0,Yes,8,8,No,7,40,Male
+0,1,I don't know,I don't know,Somewhat easy,0,0,No,5,6,I don't know,4,30,Male
+1,1,I don't know,I don't know,Somewhat easy,0,0,I don't know,9,7,Yes,4,34,Male
+1,1,I don't know,I don't know,Somewhat easy,0,1,I don't know,8,8,I don't know,9,21,Male
+0,1,Yes,I don't know,Very easy,1,0,No,6,5,Yes,7,37,male
+,,,,,,,,,,No,8,27,Male
+,,,,,,,,,,No,3,37,Male
+1,1,Yes,Yes,Very easy,1,1,Yes,7,8,I don't know,8,33,Male
+1,1,Yes,Yes,I don't know,1,1,Yes,7,7,Yes,7,28,Male
+1,1,Yes,Yes,I don't know,1,1,Yes,7,7,I don't know,5,41,male
+1,1,No,No,Somewhat easy,0,0,No,3,4,No,1,34,male
+,,,,,,,,,,Yes,4,37,Male
+1,1,Yes,Yes,Somewhat easy,1,0,Yes,6,8,I don't know,3,28,Male
+0,1,No,No,Somewhat difficult,0,1,No,6,2,No,8,52,Male
+1,1,I don't know,I don't know,Very easy,0,0,No,5,3,No,2,39,Male
+1,1,Yes,No,Difficult,0,0,No,1,0,I don't know,5,45,Male
+,,,,,,,,,,No,7,50,Male
+1,1,I don't know,No,Neither easy nor difficult,1,0,No,3,3,I don't know,8,27,Male
+1,1,Yes,Yes,Neither easy nor difficult,0,0,No,7,5,I don't know,4,31,f
+1,1,I don't know,No,I don't know,0,0,No,0,3,I don't know,2,44,Male
+1,1,Yes,I don't know,Somewhat easy,1,0,No,6,6,Yes,7,31,male
+1,1,No,No,Difficult,0,0,No,2,0,No,3,23,Male-ish
+1,1,Yes,Yes,I don't know,1,1,No,8,8,I don't know,10,23,Male
+1,1,I don't know,I don't know,I don't know,0,0,No,2,1,I don't know,8,38,Male
+1,1,I don't know,I don't know,I don't know,0,0,No,7,6,Yes,5,37,male
+1,1,Yes,No,Somewhat easy,0,0,No,6,5,No,4,33,Male
+,,,,,,,,,,I don't know,6,34,Male
+0,1,Yes,I don't know,Somewhat difficult,0,0,Yes,3,1,No,2,47,Male 
+1,1,I don't know,I don't know,Somewhat easy,1,0,No,6,3,Yes,0,29,Female
+0,1,Yes,Yes,Neither easy nor difficult,0,0,I don't know,2,2,No,3,38,male
+1,1,I don't know,No,Somewhat easy,0,0,No,8,8,No,4,29,Male
+1,1,I don't know,No,Somewhat easy,1,1,No,6,6,I don't know,10,37,Male
+,,,,,,,,,,No,0,39,M
+1,1,Yes,Yes,Somewhat easy,1,1,Yes,8,8,Yes,5,29,Female
+,,,,,,,,,,Yes,3,57,f
+1,1,Not eligible for coverage / NA,I don't know,Somewhat easy,0,1,I don't know,8,8,Yes,10,27,Female
+0,1,I don't know,No,I don't know,0,0,No,7,5,No,7,38,Female
+,,,,,,,,,,I don't know,7,39,male
+1,1,Yes,Yes,Somewhat easy,1,0,Yes,9,9,Yes,7,29,Male
+0,1,No,No,Somewhat difficult,0,0,No,5,0,Yes,3,24,Male
+1,1,No,No,Somewhat easy,1,1,Yes,10,8,Yes,10,30,female
+1,1,Yes,Yes,Somewhat easy,0,0,Yes,8,8,I don't know,7,32,Male
+1,1,Yes,I don't know,Somewhat easy,1,1,Yes,7,7,Yes,10,37,M
+1,1,No,No,Somewhat easy,0,0,No,8,2,No,0,34,male
+1,0,Yes,Yes,Very easy,1,1,Yes,7,10,Yes,10,52,m
+0,1,Yes,I don't know,Difficult,0,0,No,8,0,Yes,0,36,Male
+0,1,Yes,I don't know,Neither easy nor difficult,1,1,No,5,5,No,10,52,Male
+1,0,Yes,No,Very easy,1,1,No,10,10,No,0,49,Female
+1,1,Yes,Yes,I don't know,1,0,I don't know,10,6,I don't know,10,30,male
+1,1,Not eligible for coverage / NA,No,Very easy,1,1,No,5,6,Yes,10,41,male
+0,1,I don't know,I don't know,Somewhat easy,0,1,No,9,7,Yes,10,29,Male
+1,1,Yes,Yes,Very easy,0,0,Yes,7,10,No,10,37,
+1,1,Yes,Yes,Very easy,1,1,Yes,8,8,Yes,7,29,Female
+1,1,Yes,Yes,Very easy,1,1,No,8,6,Yes,8,39,female
+1,1,Yes,Yes,Very easy,1,1,Yes,5,5,Yes,9,30,F
+1,1,Yes,No,Somewhat easy,1,1,Yes,10,8,Yes,8,23,woman
+1,1,Yes,Yes,Somewhat easy,0,0,Yes,7,7,I don't know,1,29,f
+1,1,Yes,I don't know,Very easy,1,1,No,7,8,Yes,10,38,Male
+1,1,Yes,No,I don't know,0,0,No,7,3,Yes,7,41,female
+1,1,Yes,Yes,Very easy,0,1,No,5,7,No,10,47,Male
+1,1,Yes,No,Somewhat difficult,0,0,No,7,5,Yes,9,56,Woman
+1,1,I don't know,I don't know,Difficult,0,0,No,4,3,I don't know,3,22,Male
+1,1,Yes,Yes,Very easy,1,1,Yes,7,8,Yes,7,32,female
+1,0,I don't know,No,Somewhat easy,0,0,No,5,3,Yes,1,30,female
+1,1,Yes,No,Neither easy nor difficult,0,0,No,7,4,Yes,10,31,sometimes
+1,1,Yes,Yes,Very easy,1,1,I don't know,7,5,No,7,36,M
+1,1,Yes,I don't know,Somewhat easy,1,1,No,5,3,Yes,10,32,Male
+1,1,Yes,No,Somewhat easy,1,1,No,10,10,Yes,7,37,Female
+0,1,I don't know,No,Somewhat difficult,0,0,No,8,7,I don't know,5,29,Male
+1,1,Yes,No,Somewhat easy,0,1,No,3,5,I don't know,8,31,Female
+1,1,Yes,Yes,Neither easy nor difficult,0,1,No,5,5,Yes,8,39,Male
+0,1,I don't know,Yes,Neither easy nor difficult,0,0,Yes,7,8,Yes,8,36,Male
+,,,,,,,,,,I don't know,10,27,
+1,1,I don't know,I don't know,Neither easy nor difficult,0,1,No,7,5,No,6,38,Male
+,,,,,,,,,,Yes,4,37,male
+1,1,Yes,Yes,Somewhat easy,0,1,Yes,9,9,No,7,33,female
+1,1,No,No,Neither easy nor difficult,1,1,I don't know,8,8,I don't know,8,38,Male
+1,1,Yes,I don't know,Neither easy nor difficult,0,1,Yes,5,5,Yes,5,36,female (cisgender)
+1,1,No,No,Somewhat easy,0,0,No,0,0,I don't know,0,30,Female
+1,1,Yes,Yes,Somewhat difficult,1,1,Yes,6,6,I don't know,10,38,Male
+1,1,No,No,Somewhat easy,1,1,No,6,6,Yes,7,35,female
+1,1,Yes,No,Somewhat difficult,1,1,No,7,5,Yes,10,26,Male
+0,1,I don't know,Yes,I don't know,0,0,No,7,7,No,6,25,Male
+1,1,Not eligible for coverage / NA,Yes,Somewhat difficult,0,0,Yes,7,8,I don't know,5,40,male
+1,1,Yes,No,Very easy,0,0,No,6,2,I don't know,4,31,Male
+1,1,Yes,I don't know,Neither easy nor difficult,0,1,No,8,6,I don't know,4,49,Male
+1,1,I don't know,No,Very easy,0,0,No,7,6,Yes,4,30,Male
+0,1,I don't know,I don't know,I don't know,0,0,No,5,4,No,7,35,Male
+0,1,Yes,No,I don't know,0,1,Yes,3,1,Yes,10,46,Male
+1,1,I don't know,I don't know,Neither easy nor difficult,0,0,No,10,8,Yes,5,29,Female
+0,1,Yes,No,Very easy,0,0,No,2,2,Yes,2,22,Male
+1,0,Yes,Yes,Very easy,0,1,No,7,9,Yes,10,50,female
+1,1,I don't know,I don't know,Very easy,0,0,No,5,5,No,0,39,male
+0,1,No,Yes,Neither easy nor difficult,1,1,Yes,9,7,No,6,40,Male
+1,1,Yes,Yes,I don't know,0,0,I don't know,5,5,Yes,8,31,Male
+,,,,,,,,,,No,10,38,Male
+0,1,Yes,I don't know,Difficult,0,0,No,9,9,Yes,2,45,Male
+1,1,Yes,Yes,Somewhat easy,0,1,I don't know,5,7,Yes,7,31,Female
+1,0,Yes,Yes,Very easy,0,0,No,5,9,No,3,25,f
+0,1,I don't know,No,I don't know,0,0,No,10,5,Yes,8,28,Female
+1,1,Yes,Yes,I don't know,0,0,Yes,7,7,No,4,37,Male
+1,1,No,No,Neither easy nor difficult,0,0,No,6,4,No,3,54,M
+1,1,Yes,Yes,I don't know,0,0,Yes,10,6,Yes,8,45,Female
+1,1,Yes,No,I don't know,1,1,No,5,3,Yes,10,36,Male
+0,1,Yes,Yes,Somewhat difficult,0,1,Yes,6,6,I don't know,9,34,Female
+1,1,Yes,Yes,Very easy,0,0,Yes,10,10,Yes,10,28,Male
+0,1,Yes,Yes,Somewhat easy,0,0,No,6,4,I don't know,3,32,Male
+,,,,,,,,,,No,5,40,male
+1,1,I don't know,Yes,Difficult,0,0,I don't know,7,6,Yes,6,52,Female (cis) 
+1,1,I don't know,No,Somewhat difficult,0,0,No,5,5,I don't know,7,33,Male
+1,1,Yes,I don't know,Somewhat easy,0,1,No,7,6,Yes,7,41,Female
+1,1,Yes,Yes,Somewhat easy,0,0,Yes,10,10,No,6,25,Female
+,,,,,,,,,,No,8,33,Woman-identified
+1,1,Yes,No,Neither easy nor difficult,0,0,No,9,2,No,10,36,Contextual
+,,,,,,,,,,Yes,7,40,male
+1,0,Yes,No,Somewhat easy,0,0,Yes,5,6,Yes,3,23,Female
+1,1,No,No,Somewhat easy,0,1,No,5,4,No,8,37,m
+0,1,Yes,Yes,I don't know,0,1,Yes,6,6,I don't know,5,42,Male
+0,1,I don't know,No,Difficult,1,1,No,7,5,Yes,9,35,Female
+1,0,Yes,I don't know,Somewhat difficult,1,1,No,8,8,Yes,8,32,Female
+1,1,I don't know,I don't know,Very easy,0,0,I don't know,4,7,Yes,6,23,Male
+1,1,Yes,I don't know,Somewhat easy,1,1,Yes,6,6,Yes,8,35,Female
+1,1,Yes,Yes,Somewhat easy,1,1,Yes,5,5,No,7,34,female
+1,1,I don't know,I don't know,Very easy,0,0,Yes,8,9,Yes,1,24,female
+1,1,Yes,Yes,Somewhat easy,1,1,No,7,7,Yes,9,38,m
+1,1,No,No,Somewhat easy,1,0,No,5,5,No,0,42,Male
+1,1,Yes,Yes,Very easy,0,0,No,8,8,I don't know,5,23,Female
+1,1,Yes,Yes,Very easy,1,1,I don't know,7,6,I don't know,7,39,
+1,1,Yes,Yes,I don't know,0,0,Yes,6,5,Yes,10,30,Male
+1,1,Yes,Yes,Very easy,1,1,Yes,10,10,I don't know,5,35,Female
+1,0,Yes,Yes,Somewhat easy,0,0,No,1,4,No,1,29,Female
+1,1,Yes,No,Somewhat difficult,0,0,Yes,8,8,I don't know,8,24,female
+1,1,Yes,I don't know,Somewhat easy,0,0,Yes,7,5,Yes,6,35,m
+1,1,Yes,No,Neither easy nor difficult,1,1,No,5,3,I don't know,4,30,male
+1,1,I don't know,No,Neither easy nor difficult,1,0,No,7,7,No,8,28,F
+1,1,Yes,I don't know,Somewhat easy,0,1,Yes,5,6,Yes,7,32,F
+1,1,Yes,Yes,Very easy,0,0,Yes,10,8,Yes,6,34,Male
+1,1,Yes,No,Very easy,0,1,No,2,5,I don't know,8,33,Male
+1,1,Yes,I don't know,Somewhat easy,1,1,Yes,10,7,No,8,32,male
+1,1,Yes,Yes,I don't know,1,1,No,7,5,I don't know,5,27,Female
+1,0,Yes,No,I don't know,0,0,Yes,8,8,Yes,10,23,Female
+0,1,Not eligible for coverage / NA,I don't know,Very easy,1,1,No,7,7,Yes,4,30,Male
+1,0,Yes,I don't know,Very easy,1,1,Yes,7,7,Yes,10,24,Male
+1,1,Yes,Yes,Very easy,1,1,Yes,7,8,Yes,10,34,Female
+1,1,Yes,Yes,Very easy,0,0,Yes,8,8,I don't know,7,32,male
+1,1,I don't know,No,Somewhat difficult,0,0,No,5,4,Yes,6,41,female
+1,1,Yes,No,I don't know,0,1,No,5,2,I don't know,7,37,Male
+,,,,,,,,,,I don't know,8,27,Male
+1,1,I don't know,I don't know,Neither easy nor difficult,0,0,No,10,7,Yes,7,26,Male
+1,1,I don't know,I don't know,Very easy,0,1,No,10,7,I don't know,5,24,male
+1,1,Yes,No,Very easy,1,1,No,3,5,No,10,44,Male
+1,1,I don't know,No,Somewhat difficult,0,0,No,6,3,No,9,40,Male
+,,,,,,,,,,No,5,42,Male
+0,1,Yes,Yes,I don't know,1,1,Yes,8,5,Yes,5,27,Non binary
+1,1,I don't know,No,Somewhat easy,0,0,No,4,3,I don't know,6,40,M
+0,1,Yes,Yes,Very easy,1,1,Yes,8,7,Yes,9,38,Genderqueer demigirl
+1,1,Yes,Yes,Somewhat easy,1,1,Yes,7,5,Yes,6,34,Male
+1,0,Yes,No,I don't know,0,0,No,8,4,I don't know,1,27,female
+0,1,Yes,I don't know,I don't know,0,0,No,8,6,No,7,34,Male 
+1,1,No,No,Very easy,0,0,No,3,0,Yes,5,26,male
+,,,,,,,,,,Yes,6,33,Female
+1,1,Yes,Yes,Very easy,1,1,No,7,4,Yes,9,39,Male
+0,1,No,Yes,Somewhat easy,1,0,Yes,3,3,Yes,6,33,Genderqueer/non-binary
+0,1,Yes,No,I don't know,1,1,No,7,1,Yes,9,37,f
+0,1,I don't know,I don't know,Somewhat easy,0,0,Yes,5,5,I don't know,10,30,Male
+1,1,No,No,Very easy,0,0,No,3,3,Yes,9,22,Male
+,,,,,,,,,,Yes,7,29,Male
+1,1,I don't know,I don't know,Very easy,0,0,No,6,8,No,8,51,Female
+0,1,Yes,I don't know,Somewhat difficult,0,0,I don't know,5,5,Yes,2,24,Male 
+1,1,Yes,Yes,Somewhat easy,0,0,No,6,6,I don't know,5,37,Male
+0,1,Yes,Yes,Very easy,0,0,No,9,9,No,8,46,M
+,,,,,,,,,,Yes,4,43,Male
+0,1,Yes,No,Neither easy nor difficult,1,0,No,2,2,I don't know,5,50,M
+1,1,Yes,Yes,Neither easy nor difficult,0,1,I don't know,6,5,Yes,7,30,Male
+1,1,I don't know,No,Very easy,1,0,No,0,5,Yes,10,27,Male
+,,,,,,,,,,No,7,31,male
+1,1,Yes,I don't know,I don't know,1,1,I don't know,8,7,Yes,10,32,male
+1,1,Yes,No,Very easy,1,0,No,0,0,Yes,8,34,Male
+,,,,,,,,,,Yes,3,49,m
+,,,,,,,,,,I don't know,1,37,m
+1,1,Yes,Yes,Very easy,1,1,No,6,6,Yes,10,35,cis-Female
+1,1,Not eligible for coverage / NA,No,Neither easy nor difficult,0,1,No,7,6,I don't know,9,33,Nonbinary
+1,1,No,No,Neither easy nor difficult,1,0,Yes,7,9,No,8,32,Male
+0,1,Yes,Yes,Neither easy nor difficult,0,0,Yes,6,5,No,2,31,Male
+0,1,Yes,No,Neither easy nor difficult,0,0,No,7,4,Yes,6,33,Male
+1,1,Yes,No,Difficult,0,0,No,3,0,Yes,8,40,Female
+1,1,Yes,Yes,Neither easy nor difficult,0,0,No,7,7,Yes,7,40,male
+,,,,,,,,,,No,5,56,Male
+1,1,Yes,No,Somewhat easy,0,0,No,5,5,Yes,9,28,Nonbinary
+0,1,I don't know,No,Difficult,0,0,No,6,3,I don't know,2,25,Male 
+1,1,Yes,Yes,Somewhat easy,1,1,Yes,7,7,Yes,9,48,Male
+0,1,Yes,Yes,Difficult,1,1,Yes,7,5,Yes,10,43,cis female
+1,1,Yes,No,Somewhat easy,0,0,No,7,7,Yes,5,29,Male
+0,1,Not eligible for coverage / NA,Yes,Neither easy nor difficult,1,0,Yes,10,7,I don't know,9,36,nonbinary
+1,1,Yes,I don't know,Very easy,1,1,No,9,4,Yes,10,34,Male
+1,0,Not eligible for coverage / NA,I don't know,I don't know,0,0,No,8,7,I don't know,8,31,female
+1,1,Yes,No,Somewhat easy,0,0,I don't know,7,7,No,7,33,Male 
+0,1,Yes,Yes,Difficult,0,0,Yes,6,6,I don't know,1,49,Male
+,,,,,,,,,,Yes,6,38,Male
+1,1,No,No,Somewhat difficult,0,0,No,7,7,No,3,30,Female
+,,,,,,,,,,Yes,6,36,Male
+0,1,Yes,Yes,Somewhat difficult,0,0,Yes,5,5,Yes,10,32,woman
+,,,,,,,,,,Yes,6,36,male
+1,1,Yes,No,I don't know,0,0,No,8,4,No,5,40,"F, cisgender"
+1,1,No,No,Somewhat easy,1,1,No,8,8,No,8,28,Male
+1,1,No,I don't know,Difficult,0,0,I don't know,8,4,No,3,21,Female
+1,1,Yes,Yes,Somewhat easy,0,1,Yes,7,5,Yes,8,46,Male
+1,1,Not eligible for coverage / NA,No,Neither easy nor difficult,0,0,No,10,6,Yes,5,20,male
+0,1,Yes,Yes,Very easy,1,1,I don't know,8,6,I don't know,9,30,Male
+1,1,I don't know,I don't know,Somewhat easy,0,0,Yes,8,8,No,8,44,female
+,,,,,,,,,,I don't know,8,34,Male
+,,,,,,,,,,Yes,10,38,Female-ish
+1,1,I don't know,No,I don't know,0,0,I don't know,7,5,I don't know,8,35,Male
+,,,,,,,,,,Yes,3,45,Female
+1,1,I don't know,No,Very easy,1,1,No,7,7,I don't know,10,35,Male
+1,1,Yes,No,I don't know,0,0,No,10,8,No,4,30,male
+1,1,I don't know,I don't know,Very easy,0,1,No,7,7,Yes,10,22,Female
+,,,,,,,,,,Yes,7,33,Male
+,,,,,,,,,,I don't know,10,30,male
+1,1,Yes,Yes,Difficult,0,0,No,7,7,Yes,5,41,Male
+1,1,I don't know,I don't know,Neither easy nor difficult,0,0,I don't know,4,4,No,5,32,Male
+1,1,Yes,I don't know,Very easy,0,0,No,8,8,No,7,48,Male
+1,1,Yes,No,Neither easy nor difficult,0,1,No,8,0,Yes,9,32,male
+0,1,I don't know,I don't know,I don't know,0,0,No,8,5,I don't know,5,30,Male
+0,1,Yes,No,Difficult,1,1,No,7,3,Yes,10,45,Female
+,,,,,,,,,,Yes,10,31,Female
+1,1,No,No,Difficult,0,0,No,3,0,No,5,32,\-
+0,1,I don't know,No,I don't know,0,1,No,9,0,I don't know,10,30,m
+1,1,Yes,No,Somewhat easy,0,0,No,3,3,I don't know,3,32,Male
+1,1,Yes,No,Somewhat easy,0,1,No,5,4,Yes,5,37,Female
+,,,,,,,,,,Yes,8,30,Male
+,,,,,,,,,,I don't know,5,31,trans woman
+1,1,Yes,No,Very easy,0,0,No,0,0,No,10,30,Male
+1,1,No,No,Somewhat difficult,0,0,No,7,3,I don't know,6,35,Female
+1,1,Yes,I don't know,I don't know,0,1,I don't know,7,5,I don't know,9,37,Male
+1,1,No,No,Neither easy nor difficult,1,0,No,5,4,Yes,7,26,Male
+1,1,Yes,No,Somewhat easy,0,0,No,3,3,Yes,9,50,male
+1,1,I don't know,No,Somewhat easy,0,0,No,2,2,I don't know,2,32,m
+1,1,I don't know,Yes,Very easy,0,0,I don't know,8,8,No,9,32,male
+1,1,Not eligible for coverage / NA,No,Somewhat difficult,0,0,No,2,2,No,9,23,Male
+1,1,I don't know,Yes,I don't know,0,1,I don't know,5,4,Yes,6,40,f
+1,1,I don't know,I don't know,Somewhat difficult,0,0,No,0,0,No,2,36,M
+1,0,I don't know,No,I don't know,1,1,I don't know,5,5,Yes,3,24,female
+1,1,Yes,I don't know,I don't know,0,1,No,7,7,No,5,29,F
+1,1,Yes,I don't know,I don't know,0,0,No,6,2,I don't know,6,28,Male
+1,1,No,I don't know,Somewhat easy,1,0,No,8,6,No,7,51,male
+1,1,I don't know,I don't know,Very easy,0,0,No,5,5,Yes,5,36,Male
+1,1,Yes,Yes,Somewhat easy,0,0,No,6,6,No,7,40,male
+1,1,Yes,Yes,Somewhat difficult,0,0,No,8,5,I don't know,2,39,M
+1,1,I don't know,I don't know,Somewhat easy,0,0,I don't know,6,7,No,6,32,f
+0,1,No,No,Neither easy nor difficult,0,0,Yes,5,1,Yes,0,45,Male
+1,1,I don't know,I don't know,Neither easy nor difficult,0,0,I don't know,5,5,Yes,7,39,Male
+,,,,,,,,,,I don't know,10,33,m
+1,1,Yes,Yes,Neither easy nor difficult,0,1,Yes,7,5,I don't know,7,46,m
+1,1,I don't know,I don't know,Somewhat difficult,0,0,No,6,3,I don't know,7,34,Male
+1,1,I don't know,No,I don't know,0,0,No,7,5,Yes,7,30,Male
+1,1,Not eligible for coverage / NA,No,Very easy,1,0,No,10,10,Yes,10,31,Male
+1,1,Yes,No,Somewhat easy,0,0,No,8,4,Yes,7,28,Male
+,,,,,,,,,,No,2,31,Male
+0,1,Yes,No,Neither easy nor difficult,1,1,No,2,2,No,3,32,Male
+1,1,I don't know,I don't know,Difficult,0,0,I don't know,7,5,I don't know,2,39,male
+1,1,Yes,Yes,Somewhat easy,1,1,Yes,5,4,Yes,6,45,F
+,,,,,,,,,,No,3,26,Male
+1,1,Yes,Yes,I don't know,1,1,Yes,8,8,I don't know,8,36,Female
+1,1,Yes,No,Somewhat easy,0,1,No,2,2,I don't know,8,26,Male
+1,1,I don't know,No,I don't know,0,0,No,0,5,I don't know,5,55,female
+,,,,,,,,,,I don't know,10,32,F
+1,1,Yes,No,I don't know,0,1,No,8,0,Yes,4,40,Transfeminine
+0,1,I don't know,No,Somewhat difficult,0,1,No,7,3,Yes,2,27,female
+0,1,Yes,Yes,Neither easy nor difficult,0,1,I don't know,10,7,Yes,7,45,female
+1,1,No,No,Difficult,0,0,No,5,0,No,7,34,female
+0,1,I don't know,No,Somewhat difficult,0,0,No,3,3,Yes,8,31,Male
+,,,,,,,,,,Yes,0,29,female
+,,,,,,,,,,No,6,31,Male
+0,1,Yes,I don't know,Neither easy nor difficult,0,0,No,9,9,No,9,40,Male
+0,1,Yes,No,Somewhat easy,1,1,No,5,2,Yes,10,41,Male
+1,1,I don't know,I don't know,I don't know,0,0,No,8,6,No,4,39,M
+1,1,Yes,I don't know,Somewhat difficult,0,0,No,7,0,No,7,39,Male
+,,,,,,,,,,Yes,7,35,Female
+1,1,I don't know,I don't know,Somewhat easy,0,0,No,5,3,I don't know,9,37,m
+0,1,Yes,No,Very easy,0,0,Yes,8,0,No,8,32,Male
+1,1,I don't know,I don't know,Somewhat easy,0,0,I don't know,8,8,Yes,5,24,Man
+1,1,Not eligible for coverage / NA,I don't know,Very easy,0,1,I don't know,9,9,No,7,40,F
+0,0,Yes,No,Neither easy nor difficult,0,1,No,0,4,Yes,10,25,Cis-male
+1,1,Yes,Yes,I don't know,1,0,No,5,7,No,7,49,Male
+0,1,I don't know,No,Somewhat easy,1,1,No,3,3,Yes,10,28,Male
+1,1,Not eligible for coverage / NA,I don't know,Very easy,1,1,No,8,7,Yes,10,22,Male
+1,1,Yes,Yes,Somewhat easy,0,0,No,7,5,No,8,41,Male
+1,1,No,I don't know,Very easy,0,0,No,5,3,No,7,36,Male
+1,1,I don't know,I don't know,Somewhat easy,0,0,No,5,5,No,6,32,Male
+0,1,I don't know,No,Difficult,0,0,No,7,3,Yes,8,23,Male
+1,1,Yes,I don't know,Neither easy nor difficult,1,1,No,8,7,Yes,10,53,M
+1,1,Yes,No,Difficult,1,1,No,7,3,Yes,8,34,Male
+0,1,No,No,Somewhat difficult,0,1,Yes,5,3,Yes,2,30,Male
+,,,,,,,,,,I don't know,10,23,Male
+1,1,I don't know,I don't know,Somewhat easy,0,0,No,7,5,Yes,8,30,Male
+1,1,Yes,Yes,I don't know,0,1,No,10,5,Yes,10,22,F
+1,1,I don't know,No,Somewhat difficult,1,1,No,3,3,I don't know,8,27,Female
+,,,,,,,,,,No,3,47,
+1,1,Yes,No,Somewhat easy,1,1,Yes,7,8,Yes,8,33,female
+1,1,Yes,Yes,Somewhat difficult,0,0,No,4,5,Yes,3,28,male
+1,1,Yes,I don't know,Somewhat easy,0,0,No,5,5,Yes,7,36,male
+1,1,I don't know,I don't know,Very easy,0,1,No,10,8,Yes,10,25,Female
+0,1,Not eligible for coverage / NA,No,Difficult,0,0,No,8,5,Yes,2,30,Female
+0,1,Yes,Yes,I don't know,0,0,No,7,3,Yes,10,39,Male
+1,1,Yes,No,Neither easy nor difficult,1,1,I don't know,9,6,I don't know,10,31,None
+0,1,Yes,Yes,Somewhat difficult,0,0,Yes,6,5,Yes,7,48,Male
+1,1,I don't know,I don't know,Very easy,0,0,No,5,5,I don't know,7,43,Male
+1,1,Yes,No,Very easy,0,0,No,6,3,I don't know,5,35,male
+0,1,Yes,No,I don't know,0,1,Yes,10,0,Yes,10,31,female
+1,1,No,No,Neither easy nor difficult,0,0,No,5,5,I don't know,0,28,Male
+1,1,I don't know,I don't know,Somewhat difficult,0,0,No,7,5,No,5,27,male
+1,1,I don't know,I don't know,Neither easy nor difficult,0,0,No,8,8,No,6,28,Male
+1,1,Yes,Yes,Somewhat difficult,0,0,I don't know,9,5,I don't know,4,43,Female
+1,1,Yes,No,Difficult,0,0,No,8,5,Yes,5,31,F
+1,1,Yes,I don't know,I don't know,0,1,No,5,2,No,7,37,male
+1,1,Yes,No,Somewhat easy,1,1,No,7,7,Yes,9,36,Cis Male
+1,1,Yes,Yes,Very easy,0,1,No,7,4,Yes,8,42,Female
+1,1,Yes,Yes,Somewhat easy,0,0,I don't know,8,7,I don't know,9,29,F
+1,1,Yes,Yes,Somewhat easy,0,1,Yes,8,6,Yes,10,41,Female
+,,,,,,,,,,No,4,37,Male
+1,1,Yes,I don't know,I don't know,0,1,Yes,7,6,No,6,53,Male
+,,,,,,,,,,Yes,8,43,male
+1,1,I don't know,I don't know,Difficult,0,0,No,4,0,I don't know,1,44,Male
+0,1,Yes,Yes,I don't know,0,0,I don't know,5,5,No,9,37,Female
+1,1,Yes,I don't know,Neither easy nor difficult,1,1,No,5,5,I don't know,7,57,F
+1,1,Yes,Yes,Very easy,0,0,Yes,6,4,No,2,47,Male
+1,1,Yes,Yes,Neither easy nor difficult,0,0,Yes,9,6,No,9,34,Male
+1,1,Yes,No,Somewhat easy,1,0,No,4,5,Yes,7,29,Male
+0,1,I don't know,No,Difficult,0,1,No,7,0,No,8,38,Male
+1,1,I don't know,I don't know,Very easy,0,1,No,6,6,No,8,41,Male
+1,1,Yes,No,Very easy,1,1,I don't know,8,4,No,10,40,Male
+,,,,,,,,,,Yes,1,,
+1,1,Yes,No,Very easy,1,0,No,6,4,No,2,30,dude
+,,,,,,,,,,Yes,8,,
